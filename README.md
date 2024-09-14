@@ -18,7 +18,9 @@
   If the choices are different, the game determines the winner based on predefined rules: 
   
   SNAKE beats WATER 
+  
   WATER beats GUN 
+  
   GUN beats SNAKE 
   
   5.Display Results: The results of the game are displayed, showing the choices of both the player and the computer, and whether the player wins, loses, or ties.
